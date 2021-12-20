@@ -2,5 +2,5 @@
 
 Digunakan untuk menjual alat-alat bangunan yang tersimpan dalam database MySql.
 <p align = "center">
-<img src="https://github.com/rasyidmisbahuddin/HTML-Project-E-Commerce/blob/main/screenshot.jpeg" alt="drawing" width="450"/>
+<img src="https://github.com/rasyidmisbahuddin/HTML-Project-E-Commerce/blob/main/screenshot.jpeg" alt="drawing" width="600"/>
 </p>
